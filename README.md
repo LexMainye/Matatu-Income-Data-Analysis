@@ -167,5 +167,3 @@ Below is a summary of the key findings from the spreadsheet:
    - The weak associations suggest potential benefits in expanding the dataset or including additional variables, such as passenger demographics or route types, to uncover more actionable patterns.
 
 ---
-
-This summary can be included in the project README to help others understand the findings and their practical implications. Let me know if you'd like further refinements!
