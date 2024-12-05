@@ -37,7 +37,7 @@ This breakdown helps identify peak and off-peak periods, providing insights into
 * Payment Channels : This comprises of cash and mobile money channels (M-PESA, Airtel Money & T-Kash)
 * Gender : This comprises of male and female channels. 
 
-The generated matatu data can be accessed here : [Download the Excel file]([https://github.com/LexMainye/your-repo-name/blob/main/data/matatu_income_data.xlsx](https://github.com/LexMainye/Transport-Data/blob/main/Matatu%20Data/Matatu.xlsx))
+The generated matatu data can be accessed here : [Download the Excel file](https://github.com/LexMainye/Transport-Data/blob/main/Matatu%20Data/Matatu.xlsx)
 
 
 
