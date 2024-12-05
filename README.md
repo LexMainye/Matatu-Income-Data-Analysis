@@ -1,4 +1,4 @@
-# **Analysis of potential *Matatu* data**
+# **Analysis of Potential *Matatu* Income Data**
 
 ![image alt](https://github.com/LexMainye/Transport-Data/blob/main/Plots/Image/AI%20Matatu.jpeg?raw=true![image](https://github.com/user-attachments/assets/b01083a1-67a4-4504-8166-c72b3038b6cf)
 ) 
