@@ -115,7 +115,7 @@ This breakdown helps identify peak and off-peak periods, providing insights into
 
 The analysis conducted using the Apriori algorithm yielded a set of association rules that highlight patterns in the hypothetical matatu income data. 
 
-Link to the association rule spreadsheet:[Download the Excel file](https://github.com/LexMainye/Transport-Data/blob/62a11783865d5fd3b6db1a437c132f12a81a59c8/Matatu%20Data/association_rules.xlsx)
+**Link to the association rule spreadsheet**:[Download the Excel file](https://github.com/LexMainye/Transport-Data/blob/62a11783865d5fd3b6db1a437c132f12a81a59c8/Matatu%20Data/association_rules.xlsx)
 
 Below is a summary of the key findings from the spreadsheet:
 
