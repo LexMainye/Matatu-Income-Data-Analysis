@@ -29,8 +29,8 @@ In this project, I aim to analyze hypothetical income data for matatus, which ha
 | **Early Afternoon**  | Transition period with moderate passenger flow.      | 12:00 PM - 1:59 PM         |
 | **Afternoon**        | Midday activity with commutters. | 2:00 PM - 3:59 PM          |
 | **Late Afternoon**   | Increasing activity as people begin their commute home. | 4:00 PM - 5:59 PM          |
-| **Evening**          | High traffic as the majority return home from work.  | 6:00 PM - 8:59 PM          |
-| **Night**            | Reduced activity with occasional late-night travelers. | 9:00 PM - 11:59 PM         |
+| **Evening**          | High traffic as the majority return home from work.  | 6:00 PM - 6:59 PM          |
+| **Night**            | Reduced activity with occasional late-night travelers. | 7:00 PM - 11:59 PM         |
 
 This breakdown helps identify peak and off-peak periods, providing insights into revenue fluctuations and operational efficiency.
 
