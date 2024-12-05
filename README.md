@@ -167,3 +167,67 @@ Below is a summary of the key findings from the spreadsheet:
    - The weak associations suggest potential benefits in expanding the dataset or including additional variables, such as passenger demographics or route types, to uncover more actionable patterns.
 
 ---
+### Cluster Analysis Findings
+
+The cluster analysis conducted on the transaction amounts grouped the data into three clusters. Each cluster represents a group of transactions with similar patterns in terms of the average transaction amount. Below is a summary of the findings:
+
+---
+
+#### Cluster Grouping
+
+| **Cluster** | **Average Transaction Amount (KES)** | **Description**                              |
+|-------------|--------------------------------------|----------------------------------------------|
+| 0           | 103.38                               | Transactions with slightly lower-than-average amounts. |
+| 1           | 104.42                               | Cluster with the highest average amount, possibly representing peak times or premium routes. |
+| 2           | 103.43                               | Similar to Cluster 0 but with a marginally higher average amount. |
+
+---
+
+#### Key Observations
+1. **Marginal Differences:**  
+   - The average transaction amounts across clusters range from KES 103.38 to KES 104.42, showing only slight variations.
+
+2. **Cluster 1 Dominance:**  
+   - Cluster 1 stands out with the highest average amount, suggesting potential alignment with high-demand periods or specific routes.
+
+3. **Homogeneity in Data:**  
+   - The minimal variation in amounts suggests a relatively uniform dataset in terms of pricing or income patterns.
+
+---
+### Random Forest Classifier Results
+
+The Random Forest Classifier was applied to the income data, producing exceptional results. Below is a summary and interpretation of the findings:
+
+---
+
+#### Performance Metrics
+
+| **Metric**     | **Value** |
+|-----------------|-----------|
+| **Precision**   | 1.00      |
+| **Recall**      | 1.00      |
+| **F1-Score**    | 1.00      |
+| **Accuracy**    | 1.00      |
+
+---
+
+#### Key Observations:
+1. **Perfect Classification:**  
+   - The classifier achieved **100% accuracy**, with precision, recall, and F1-score all at their maximum values of **1.00**. This means the model made no errors in classifying the dataset.
+
+2. **Support:**  
+   - A total of **421** data points were used, all belonging to a single class (labeled as "0"). This suggests uniformity or imbalance in the dataset.
+
+3. **Feature Importance:**  
+   - Random Forest provides a measure of feature importance, which can identify the most influential factors in income classification.
+
+---
+
+#### Insights from Feature Importance:
+The most critical features influencing classification should be analyzed to guide practical decision-making. For example:
+- **Time of Day:** Which time periods generate the highest or lowest income?  
+- **Payment Method:** Is cash or digital payment a more significant contributor to income patterns?  
+
+This information can help optimize operations or pricing strategies.
+
+---
